@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: joker-max-xmd 
+    env: node
+    plan: free  
+    region: singapore  
+    buildCommand: npm install
+    startCommand: npm start
+    envVars:
+      - key: NODE_ENV
+        value: production
+    healthCheckPath: /  
+    autoDeploy: true  
