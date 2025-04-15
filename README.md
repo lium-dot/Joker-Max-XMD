@@ -29,14 +29,10 @@
 
 ## 🚀 DEPLOYMENT OPTIONS  
 
-### ☁️ One-Click Hosting  
-[![Deploy on Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy)  
-[![Railway Deployment](https://railway.app/button.svg)](https://railway.app/new)  
 
 ### 🤖 Managed Services  
 - **Replit**: [Cloud IDE Setup](https://replit.com/github/iconic05/Joker-max)  
-- **Heroku**: [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)  
-
+-
 ---
 
 ## 💡 SUPPORT & COMMUNITY  
