@@ -4,31 +4,32 @@
 
 ![TOP SMOOTH BOT](https://files.catbox.moe/pk48i2.jpg)  
 
-**📅 Last Updated:** `July 2024` | **👁️ Total Views:** `25K+`  
 
 ---
+## bot work with 25 coins only and more unlimited panel bot will not recognized 
+
 
 ## 🌟 CORE FEATURES  
 - **WhatsApp Automation** (Bulk messaging, auto-replies, group tools)  
 - **TikTok Growth Suite** (Auto-engagement, view boosting)  
 - **Katapult Integration** (High-performance hosting)  
 - **Web Panel Control** (Real-time bot management)  
-- **Multi-Device Ready** (24/7 operation)  
+- **Multi-Device Ready** (24
+- 7 operation)  
 
 ---
-
 ## 🔗 OFFICIAL LINKS  
 | Platform          | Link                                  |
 |-------------------|---------------------------------------|
 | **GitHub Repo**   | [Joker-Max Source](https://github.com/iconic05/Joker-max) |
 | **WhatsApp Group**| [Join Community](https://chat.whatsapp.com/YOUR_INVITE) |
-| **Control Panel** | [Dashboard](https://panel.jokermax.tech) |
+| **Control Panel** | [Dashboard](https://bot-hosting.net/?aff=1274828280750407803) |
 
 ---
 
 ## 🚀 FREE DEPLOYMENT  
-[![Deploy on Render](https://img.shields.io/badge/Render-Free_Hosting-blue)](YOUR_RENDER_LINK)  
-[![Katapult Hosting](https://img.shields.io/badge/Katapult-Optimized-orange)](https://katapult.host)  
+[![Deploy on Render](https://img.shields.io/badge/Render-Free_Hosting-blue)](https://bot-hosting.net/?aff=1274828280750407803)  
+[![Katapult Hosting](https://img.shields.io/badge/Katapult-Optimized-orange)](https://dashboard.katabump.com/auth/login#daeae7)  
 
 ---
 
