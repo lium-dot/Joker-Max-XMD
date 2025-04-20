@@ -1,0 +1,68 @@
+{
+  "name": "Joker-Max-XMD",
+  "version": "2.4.0",
+  "description": "Joker-Max-XMD, the ultimate WhatsApp Bot with AI capabilities",
+  "logo": "https://i.ibb.co/0jQ7Z3T/joker-max-logo.jpg",
+  "keywords": ["whatsapp", "bot", "md", "joker-max", "iconic-tech"],
+  "repository": "https://github.com/iconic05/Joker-Max-XMD.git",
+  "stack": "container",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "env": {
+    "BOT_NAME": {
+      "description": "Enter your bot name here",
+      "value": "Joker-Max-XMD",
+      "required": true
+    },
+    "OWNER_NUMBER": {
+      "description": "Enter your number with country code (e.g., 263xxx for Zimbabwe)",
+      "value": "",
+      "required": true
+    },
+    "OWNER_NAME": {
+      "description": "Owner name",
+      "value": "",
+      "required": true
+    },
+    "STICKER_AUTHOR_NAME": {
+      "description": "Sticker pack author name",
+      "value": "Joker-Max | Iconic Tech",
+      "required": false
+    },
+    "HEROKU_API_KEY": {
+      "description": "Heroku API key (leave empty if not using Heroku)",
+      "value": "",
+      "required": false
+    },
+    "HEROKU_APP_NAME": {
+      "description": "Heroku app name (must match exactly)",
+      "value": "",
+      "required": false
+    },
+    "TIMEZONE": {
+      "description": "Timezone (e.g., Africa/Harare)",
+      "value": "Africa/Harare",
+      "required": false
+    },
+    "GITHUB_TOKEN": {
+      "description": "GitHub token with 'repo' scope (Generate at: https://github.com/settings/tokens)",
+      "value": "",
+      "required": false
+    }
+  },
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    },
+    {
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+    }
+  ]
+}
