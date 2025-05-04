@@ -1,5 +1,5 @@
 {
-    "name": "JOKER-MAX XMD",
+    "name": "JOKER MAX",
     "version": "8.0.1",
     "description": "WhatsApp War Bot Using Node.js",
     "main": "index.js",
@@ -13,10 +13,10 @@
     "scripts": {
         "start": "node index.js"
     },
-    "author": "iconic tech",
+    "author": "ɪᴄᴏɴɪᴄ ᴛᴇᴄʜ",
     "license": "Apache-2.0",
     "dependencies": {
-        "@whiskeysockets/baileys": "^6.7.9",
+        "baileys": "^6.7.9",
         "@adiwajshing/keyed-db": "^0.2.4",
         "@hapi/boom": "^10.0.1",
         "awesome-phonenumber": "^5.9.0",
