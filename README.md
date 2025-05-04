@@ -7,7 +7,6 @@
 ---
 ## bot work with 25 coins only and more unlimited panel bot will not recognized 
 
----
 ## 🌟 CORE FEATURES  
 - **WhatsApp Automation** (Bulk messaging, auto-replies, group tools)  
 - **TikTok Growth Suite** (Auto-engagement, view boosting)  
@@ -17,9 +16,11 @@
 
 ---
 ## 🔗 OFFICIAL LINKS  
-**GitHub Repo**: [Joker-Max Source](https://github.com/iconic05/Joker-max)  
-**WhatsApp Group**: [Join Community](https://chat.whatsapp.com/YOUR_INVITE)  
-**Control Panel**: [Dashboard](https://bot-hosting.net/?aff=1274828280750407803)  
+| Platform          | Link                                  |
+|-------------------|---------------------------------------|
+| **GitHub Repo**   | [Joker-Max Source](https://github.com/iconic05/Joker-max) |
+| **WhatsApp Group**| [Join Community](https://chat.whatsapp.com/YOUR_INVITE) |
+| **Control Panel** | [Dashboard](https://bot-hosting.net/?aff=1274828280750407803) |
 
 ---
 ## 🚀 FREE DEPLOYMENT  
@@ -28,9 +29,9 @@
 
 ---
 ## 📌 OWNER RESOURCES  
-- **Website**: [iconictechdevorg.vercel.app](https://iconictechdevorg.vercel.app)  
-- **Session Generator**: [Queen Ruva AI](https://queen-ruva-ai-3d-session-id.onrender.com/)  
-- **Mediafire Files**: [Download Here](https://www.mediafire.com/file/25q29nxq3nyuom0/QUEEN_RUVA_AI_updat_%F0%9F%94%8D%E2%9C%85.zip/file)  
+- **Website:** [iconictechdevorg.vercel.app](https://iconictechdevorg.vercel.app)  
+- **Session Generator:** [Queen Ruva AI](https://queen-ruva-ai-3d-session-id.onrender.com/)  
+- **Mediafire Files:** [Download Here](https://www.mediafire.com/file/25q29nxq3nyuom0/QUEEN_RUVA_AI_updat_%25F0%259F%2594%258D%25E2%259C%2585.zip/file)  
 
 **✅ Stable Connection | ✅ 24/7 Uptime | ✅ Verified Performance**  
 
@@ -41,7 +42,7 @@ MIT License © 2024 [Iconic Tech](https://github.com/iconic05)
 **❤️ Thank you for choosing Joker Max!**  
 
 ---
-## INSTALLATION GUIDE
+## INSTALLATION COMMANDS
 
 # Update and upgrade packages
 pkg update -y && pkg upgrade -y
@@ -62,7 +63,7 @@ yarn install
 npm install -g node-gyp
 
 # Start the application (check package.json for correct start command)
-# Common options:
+# This might vary depending on the project - common options:
 yarn start
 # or
 node index.js
