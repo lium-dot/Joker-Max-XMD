@@ -1,49 +1,55 @@
-# 🃏 JOKER MAX XMD  
-*The Ultimate Multi-Platform Bot Solution*  
-**⚡ Powered by [Iconic Tech](https://github.com/iconic05) | 🤝 Partnered with [Queen Ruva AI Beta](https://github.com/iconic05/Queen-ruva-ai-beta)**  
+<p align="center">
+  <img src="https://files.catbox.moe/pk48i2.jpg" alt="JOKER MAX XMD" width="400">
+</p>
 
-![TOP SMOOTH BOT](https://files.catbox.moe/pk48i2.jpg)  
+<h1 align="center">🃏 JOKER MAX XMD</h1>
+<h3 align="center">The Ultimate Multi-Platform Bot Solution</h3>
+<p align="center">
+  <strong>⚡ Powered by <a href="https://github.com/iconic05">Iconic Tech</a> | 🤝 Partnered with <a href="https://github.com/iconic05/Queen-ruva-ai-beta">Queen Ruva AI Beta</a></strong>
+</p>
 
 ---
-## bot work with 25 coins only and more unlimited panel bot will not recognized 
+
+## ⚠️ IMPORTANT NOTE
+**This bot works with only 25 coins and more! Unlimited panel bot will not be recognized.**
+
+---
 
 ## 🌟 CORE FEATURES  
-- **WhatsApp Automation** (Bulk messaging, auto-replies, group tools)  
-- **TikTok Growth Suite** (Auto-engagement, view boosting)  
-- **Katapult Integration** (High-performance hosting)  
-- **Web Panel Control** (Real-time bot management)  
-- **Multi-Device Ready** (24/7 operation)  
+- **WhatsApp Automation**  
+  - Bulk messaging  
+  - Smart auto-replies  
+  - Advanced group management tools  
+- **TikTok Growth Suite**  
+  - Auto-engagement system  
+  - View boosting capabilities  
+- **Katapult Integration**  
+  - High-performance hosting solution  
+- **Web Panel Control**  
+  - Real-time bot management dashboard  
+- **Multi-Device Ready**  
+  - 24/7 uninterrupted operation  
 
 ---
+
 ## 🔗 OFFICIAL LINKS  
-| Platform          | Link                                  |
-|-------------------|---------------------------------------|
-| **GitHub Repo**   | [Joker-Max Source](https://github.com/iconic05/Joker-max) |
-| **WhatsApp Group**| [Join Community](https://chat.whatsapp.com/YOUR_INVITE) |
-| **Control Panel** | [Dashboard](https://bot-hosting.net/?aff=1274828280750407803) |
+
+| Platform          | Badge | Link |
+|-------------------|-------|------|
+| **GitHub Repo**   | ![GitHub](https://img.shields.io/badge/Source-Code-success) | [Joker-Max Source](https://github.com/iconic05/Joker-max) |
+| **WhatsApp Group**| ![WhatsApp](https://img.shields.io/badge/Community-Chat-green) | [Join Community](https://chat.whatsapp.com/YOUR_INVITE) |
+| **Control Panel** | ![Dashboard](https://img.shields.io/badge/Control-Panel-blue) | [Dashboard](https://bot-hosting.net/?aff=1274828280750407803) |
 
 ---
-## 🚀 FREE DEPLOYMENT  
-[![Deploy on Render](https://img.shields.io/badge/Render-Free_Hosting-blue)](https://bot-hosting.net/?aff=1274828280750407803)  
-[![Katapult Hosting](https://img.shields.io/badge/Katapult-Optimized-orange)](https://dashboard.katabump.com/auth/login#daeae7)  
 
----
-## 📌 OWNER RESOURCES  
-- **Website:** [iconictechdevorg.vercel.app](https://iconictechdevorg.vercel.app)  
-- **Session Generator:** [Queen Ruva AI](https://queen-ruva-ai-3d-session-id.onrender.com/)  
-- **Mediafire Files:** [Download Here](https://www.mediafire.com/file/25q29nxq3nyuom0/QUEEN_RUVA_AI_updat_%25F0%259F%2594%258D%25E2%259C%2585.zip/file)  
+## 🚀 DEPLOYMENT OPTIONS
 
-**✅ Stable Connection | ✅ 24/7 Uptime | ✅ Verified Performance**  
+### Free Hosting Solutions
+[![Deploy on Render](https://img.shields.io/badge/Render-Free_Hosting-blue?style=for-the-badge)](https://bot-hosting.net/?aff=1274828280750407803)  
+[![Katapult Hosting](https://img.shields.io/badge/Katapult-Optimized-orange?style=for-the-badge)](https://dashboard.katabump.com/auth/login#daeae7)  
 
----
-## 📜 LICENSE  
-MIT License © 2024 [Iconic Tech](https://github.com/iconic05)  
-
-**❤️ Thank you for choosing Joker Max!**  
-
----
-## INSTALLATION COMMANDS
-
+### Self-Hosting Guide
+```bash
 # Update and upgrade packages
 pkg update -y && pkg upgrade -y
 
@@ -59,13 +65,11 @@ cd Joker-Max-XMD
 # Install project dependencies
 yarn install
 
-# If you encounter any issues with node-gyp during installation, try:
+# If you encounter any issues with node-gyp during installation:
 npm install -g node-gyp
 
-# Start the application (check package.json for correct start command)
-# This might vary depending on the project - common options:
+# Start the application
 yarn start
-# or
-node index.js
-# or
-npm start
+# Alternative start commands:
+# node index.js
+# npm start
