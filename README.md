@@ -48,28 +48,53 @@
 [![Deploy on Render](https://img.shields.io/badge/Render-Free_Hosting-blue?style=for-the-badge)](https://bot-hosting.net/?aff=1274828280750407803)  
 [![Katapult Hosting](https://img.shields.io/badge/Katapult-Optimized-orange?style=for-the-badge)](https://dashboard.katabump.com/auth/login#daeae7)  
 
-### Self-Hosting Guide
+### Termux ON TERMUX(ANDROID)
 ```bash
-# Update and upgrade packages
+#!/bin/bash
+
+# System Update
+clear
+echo "[+] Updating system packages..."
 pkg update -y && pkg upgrade -y
 
-# Install required dependencies
-pkg install -y git nodejs yarn python make clang
+# Install Dependencies
+echo "[+] Installing required dependencies..."
+pkg install -y git nodejs ffmpeg imagemagick libwebp
 
-# Clone the repository
-git clone https://github.com/iconic05/Joker-Max-XMD.git
+# Clone Repository
+echo "[+] Downloading Joker-Max-XMD..."
+if [ -d "Joker-Max-XMD" ]; then
+    echo "[!] Repository already exists. Pulling latest changes..."
+    cd Joker-Max-XMD
+    git pull
+else
+    git clone https://github.com/iconic05/Joker-Max-XMD.git
+    cd Joker-Max-XMD
+fi
 
-# Navigate to the project directory
-cd Joker-Max-XMD
+# Install Node Modules
+echo "[+] Installing node modules..."
+npm install
+npm install -g npm@latest
+npm audit fix --force
 
-# Install project dependencies
+# Additional Setup
+echo "[+] Performing additional setup..."
+pkg install python -y
+npm install --global yarn
 yarn install
 
-# If you encounter any issues with node-gyp during installation:
-npm install -g node-gyp
+# Start Bot
+clear
+cat << "EOF"
+  _____  _               __  __       __  __         
+ |  __ \| |             |  \/  |     |  \/  |        
+ | |__) | | _____      _| \  / | __ _| \  / | ___    
+ |  ___/| |/ _ \ \ /\ / / |\/| |/ _` | |\/| |/ _ \   
+ | |    | | (_) \ V  V /| |  | | (_| | |  | |  __/   
+ |_|    |_|\___/ \_/\_/ |_|  |_|\__,_|_|  |_|\___|   
+EOF
 
-# Start the application
-yarn start
-# Alternative start commands:
-# node index.js
-# npm start
+echo "[+] Installation complete!"
+echo "[+] Starting Joker-Max-XMD..."
+node .
