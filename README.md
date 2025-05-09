@@ -98,3 +98,45 @@ EOF
 echo "[+] Installation complete!"
 echo "[+] Starting Joker-Max-XMD..."
 node .
+```
+### All termux version 
+```bash
+#!/bin/bash
+
+# System Update
+clear
+echo "[+] Updating packages..."
+pkg update -y && pkg upgrade -y
+
+# Install Dependencies
+echo "[+] Installing dependencies..."
+pkg install -y git nodejs ffmpeg imagemagick libwebp
+
+# Clone Repository
+echo "[+] Downloading Joker Max XMD..."
+git clone https://github.com/iconic05/Joker-Max-XMD.git
+cd Joker-Max-XMD
+
+# Install Node Modules
+echo "[+] Installing node modules..."
+npm install
+npm install -g npm@latest
+npm audit fix --force
+
+# Fix Common Issues
+echo "[+] Applying fixes..."
+pkg install python -y
+npm install --global yarn
+yarn install
+
+# Start Bot
+clear
+echo "[+] Installation complete!"
+echo "[+] Starting Joker Max XMD..."
+node .
+```
+## to start when termux its down
+```bash
+ñpm start
+```
+## cmds provide bt iconic tech 
