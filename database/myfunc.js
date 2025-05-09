@@ -10,7 +10,7 @@ const {
     proto,
     delay,
     getContentType
-} = require('@whiskeysockets/baileys')
+} = require('baileys')
 const chalk = require('chalk')
 const fs = require('fs')
 const Crypto = require('crypto')
