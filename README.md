@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://files.catbox.moe/pk48i2.jpg" alt="JOKER MAX XMD" width="400">
+  <img src="https://files.catbox.moe/kjcl5i.jpg" alt="JOKER MAX XMD" width="400">
 </p>
 
 <h1 align="center">🃏 JOKER MAX XMD</h1>
