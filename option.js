@@ -11,19 +11,19 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "263716304574"
-global.ownername = "iconic tech"
+global.ownernomer = "254758443111"
+global.ownername = "★Ꭿ☼︎ℒ☼︎ℒ✩ℰ✫ℕ♫"
 global.ytname = "YT: https://www.youtube.com/@iconic-tech"
 global.socialm = "GitHub: https://github.com/iconic05"
-global.location = "zimbabwe/bulawayo"
+global.location = "KENYA🇰🇪/NAIROBI"
 
-global.ownernumber = '263716304574'  //creator number
-global.ownername = 'iconic tech' //owner name
-global.botname = 'ﾌㄖҜ乇尺 爪卂乂'//* CHANGE THIS BOT NOT WORK
+global.ownernumber = '254758443111'  //creator number
+global.ownername = '★Ꭿ☼︎ℒ☼︎ℒ✩ℰ✫ℕ♫' //owner name
+global.botname = 'J༙O༙K༙E༙R༙ M༙A༙X༙'//* CHANGE THIS BOT NOT WORK
 
 //STICKER DETAILS
-global.packname = 'sᴛɪᴄᴋᴇʀ ᴍᴀᴅᴇ ʙʏ'
-global.author = 'ɪᴄᴏɴɪᴄ-ᴛᴇᴄʙʜ'
+global.packname = 'sᴛɪᴄᴋᴇʀ ᴍᴀᴅᴇ ʙʏ ★Ꭿ☼︎ℒ☼︎ℒ✩ℰ✫ℕ♫'
+global.author = '★Ꭿ☼︎ℒ☼︎ℒ✩ℰ✫ℕ♫'
 
 //CONSOLE VIEW/THEME
 global.themeemoji = '🪀'
@@ -33,18 +33,18 @@ global.wm = "ɪᴄᴏɴɪᴄ ᴛᴇᴄʜ"
 global.link = 'https://whatsapp.com/channel/0029ValX2Js9RZAVtDgMYj0r'
 
 //CUSTOM PREFIX
-global.prefa = ['','!','.','#','&']
+global.prefa = ['∆']
 
 //FALSE=DISABLE AND TRUE=ENABLE
 global.chatbot = true; // Enable text chatbot
-global.autoRecording = true//auto recording
+global.autoRecording = false//auto recording
 global.autoTyping = true //auto typing
 global.emojiReact = false; // Default: enabled
-global.autorecordtype = true //auto typing + recording
-global.autoread = true //auto read messages
-global.autobio = true //auto update bio
+global.autorecordtype = false //auto typing + recording
+global.autoread = false //auto read messages
+global.autobio = false //auto update bio
 global.anti91 = false //auto block +91 
-global.autoswview = true //auto view status/story
+global.autoswview = false //auto view status/story
 global.typemenu = 'v2'
 
 
